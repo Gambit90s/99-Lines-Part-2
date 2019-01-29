@@ -1,6 +1,12 @@
 body {
-    background-color: rgba(37, 64, 56, 0.63);
+    background-color: rgba(24, 114, 87, 0.63);
     font-family: Tahoma, 'serif';
+}
+
+button {
+    background-color: rgb(255, 145, 0);
+    
+
 }
 
 h1 {
@@ -11,9 +17,9 @@ h1 {
 }*/
 
 .friend {
-    background-color: #87c1ff;
+    background-color: #dd87ff;
 }
 
-.friend p {
+.friend h3 {
     text-transform: uppercase;
 }
